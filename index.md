@@ -1,4 +1,5 @@
 ## Digital editions
+### Description
 This work aims to define a series of reference models that would serve as a guide to the design and development of the National Edition of Aldo Moro's works. These models have been defined through a benchmarking process that is organized as follows:
 
 * content analysis on a sample of 30 digital editions, evaluated on the basis of certain criteria defined in Sahle (2014);
@@ -7,6 +8,7 @@ This work aims to define a series of reference models that would serve as a guid
 
 The digital editions that meet the quality criteria taken into consideration are equipped with the following characteristics: their audience is composed of both domain experts and generic users; their documentation is rich and accurate; their content is described by a complete set of metadata; they and their single parts are citable and uniquely identifiable; their data model is geared towards interoperability and interlinking between its contents and the relevant resources already existing on the Web; they use visualization and storytelling tools so as to convey information intuitively; their information architecture is well-structured and easily navigated; their data and contents can be downloaded in many different formats; they take advantage of Open Source software and tools; finally, their contents are open and accessible to anyone.
 
+### Links
 [Link to project]
 
 [The notebook on Zenodo](https://doi.org/10.5281/zenodo.5184721)
