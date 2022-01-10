@@ -15,3 +15,16 @@ This work aims to define a series of reference models that would serve as a guid
 
 ### Cite as
 Barzaghi, Sebastian. (2021). Competitive audit for designing and developing the National Edition of Aldo Moro's works (1.1.0). Zenodo. https://doi.org/10.5281/zenodo.5184721
+
+***
+
+## LightSpeed Cinemas
+### Description
+The management of a chain of cinemas called Light Speed cinemas are interested in reviewing the data for the 3 cinemas for the past 3 months. The data regards the total number of ticket sales they have made, along with the number of sales and revenue for the concession stand (Soda, Popcorn, and Candy). In particular, the management are interested in comparing the revenue of the concession stand between the three cinemas.
+
+The objective of this report is to review the data and the context provided, and to highlight which of the three cinemas has the most successful concession stand, and how the others compare to it.
+
+### Links
+[Link to the HTML report](https://sebastianbarzaghi.github.io/data-books/lightspeed-cinemas.html)
+
+***
