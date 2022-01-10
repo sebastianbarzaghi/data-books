@@ -16,7 +16,6 @@ This work aims to define a series of reference models that would serve as a guid
 ### Cite as
 Barzaghi, Sebastian. (2021). Competitive audit for designing and developing the National Edition of Aldo Moro's works (1.1.0). Zenodo. https://doi.org/10.5281/zenodo.5184721
 
-***
 
 ## LightSpeed Cinemas
 ### Description
@@ -26,5 +25,3 @@ The objective of this report is to review the data and the context provided, and
 
 ### Links
 [Link to the HTML report](https://sebastianbarzaghi.github.io/data-books/lightspeed-cinemas.html)
-
-***
