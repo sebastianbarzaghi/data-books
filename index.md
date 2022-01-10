@@ -7,7 +7,7 @@ This work aims to define a series of reference models that would serve as a guid
 * review of the data processing results and consideration of the models that can be used as reference.
 
 ### Links
-[Link to project](https://sebastianbarzaghi.github.io/data-books/digital-editions.html)
+[Link to project](/digital-editions.html)
 
 [The notebook on Zenodo](https://doi.org/10.5281/zenodo.5184721)
 
