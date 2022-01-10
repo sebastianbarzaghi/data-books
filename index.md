@@ -1,4 +1,3 @@
----
 ## Digital editions
 This work aims to define a series of reference models that would serve as a guide to the design and development of the National Edition of Aldo Moro's works. These models have been defined through a benchmarking process that is organized as follows:
 
@@ -14,4 +13,3 @@ The digital editions that meet the quality criteria taken into consideration are
 
 ### Cite as
 Barzaghi, Sebastian. (2021). Competitive audit for designing and developing the National Edition of Aldo Moro's works (1.1.0). Zenodo. https://doi.org/10.5281/zenodo.5184721
----
