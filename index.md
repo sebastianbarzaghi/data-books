@@ -8,7 +8,9 @@ This work aims to define a series of reference models that would serve as a guid
 The digital editions that meet the quality criteria taken into consideration are equipped with the following characteristics: their audience is composed of both domain experts and generic users; their documentation is rich and accurate; their content is described by a complete set of metadata; they and their single parts are citable and uniquely identifiable; their data model is geared towards interoperability and interlinking between its contents and the relevant resources already existing on the Web; they use visualization and storytelling tools so as to convey information intuitively; their information architecture is well-structured and easily navigated; their data and contents can be downloaded in many different formats; they take advantage of Open Source software and tools; finally, their contents are open and accessible to anyone.
 
 [Link to project]
+
 [The notebook on Zenodo](https://doi.org/10.5281/zenodo.5184721)
+
 [The dataset on Zenodo](https://doi.org/10.5281/zenodo.4779123)
 
 ### Cite as
